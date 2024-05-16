@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.jungmin.Part2_Test" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-05-16T02:26:05" hostname="BOOK-LCCUUB9T5H" time="1.11">
+  <properties/>
+  <testcase name="Q 2-20. 각 tag의 name과 해당 tag가 달린 post의 개수 (컬럼명: PostCount)를 출력하기 위한 SQL을 작성해주세요. &#10; 단, post에 할당되지 않은 tag의 이름도 모두 출력해야 합니다." classname="com.jungmin.Part2_Test" time="1.11"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
